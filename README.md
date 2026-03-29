@@ -10,6 +10,8 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.33%2B-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
+**[中文文档](README.md)** · **[English](README.en.md)**
+
 </div>
 
 ---
@@ -158,11 +160,13 @@ streamlit run app.py
 ## 📁 项目结构
 
 ```
-刻舟求剑/
+MarkTheBoat/
 ├── app.py            # 主程序（Streamlit UI + 匹配引擎）
 ├── requirements.txt  # Python 依赖
 ├── run.sh            # 一键启动脚本
-└── README.md         # 本文档
+├── README.md         # 中文文档
+├── README.en.md      # English Documentation
+└── LICENSE           # MIT 许可证
 ```
 
 ---
